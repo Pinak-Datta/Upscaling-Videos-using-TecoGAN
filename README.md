@@ -4,7 +4,7 @@ This readme provides instructions on how to run the TecoGAN model for video enha
 
 [Google Colab Notebook Link](https://colab.research.google.com/drive/1PeyhUNNX7OcL0KywTnjnCh70TSsKF8uC?usp=sharing)
 
-[Processed Videos Link](https://drive.google.com/file/d/1JsyI1NQAbtRl4hnIdXXPywwyTsVDzhC9/view?usp=sharing)
+[Processed Videos Link](https://drive.google.com/drive/folders/1T0mTjqYZPwfAtepQqHVxlZNmVe4sqVt6?usp=sharing)
 
 ## Requirements
 
